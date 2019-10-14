@@ -17,7 +17,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "client": "cd backend && nodemon server",
-    "server": "npm start"
+    "server": "npm start",
+    "stop": "npm stop"
   },
   "eslintConfig": {
     "extends": "react-app"
